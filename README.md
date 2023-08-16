@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Brad Lewis's github stats](https://github-readme-stats.vercel.app/api?username=bradlewis&count_private=true&show_icons=true)](https://github.com/bradlewis)
+[![Brad Lewis's github stats](https://github-readme-stats-nu-lyart-96.vercel.app/api?username=bradlewis&count_private=true&show_icons=true&theme=onedark)](https://github.com/bradlewis)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradlewis)](https://github.com/bradlewis)
+[![Top Langs](https://github-readme-stats-nu-lyart-96.vercel.app/api/top-langs/?username=bradlewis&theme=onedark)](https://github.com/bradlewis)
 
 <!--
 **BradLewis/BradLewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
